@@ -1,5 +1,6 @@
 # calcium
-Scripts used for preprocessing images of Ca2+ signal during Xenopus neural tube formation. These are associated with Suzuki, M. et al. (submitted).
+Scripts used for preprocessing images of Ca2+ signal during Xenopus neural tube formation. These are associated with the following publication: Makoto Suzuki, Masanao Sato, Hiroshi Koyama, Yusuke Hara, Kentaro Hayashi, Naoko Yasue, Hiromi Imamura, Toshihiko Fujimori, Takeharu Nagai, Robert E. Campbell, Naoto Ueno. Development 2017 144: 1307-1316; doi: 10.1242/dev.141952.
+https://dev.biologists.org/content/144/7/1307.
 
 ## Usage
 ```
